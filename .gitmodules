@@ -17,3 +17,6 @@
 [submodule "external/lnprototest"]
 	path = external/lnprototest
 	url = https://github.com/rustyrussell/lnprototest.git
+[submodule "external/jsmn"]
+	path = external/jsmn
+	url = https://github.com/zserge/jsmn.git
